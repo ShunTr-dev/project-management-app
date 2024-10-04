@@ -24,7 +24,7 @@ export default [
             'react/jsx-uses-react': 'off',
             'react/jsx-uses-vars': 'warn',
             'react/react-in-jsx-scope': 'off',
-            'max-len': ['warn', { code: 150, comments: 200, ignoreComments: true }],
+            'max-len': ['warn', { code: 180, comments: 200, ignoreComments: true }],
 
             // curly: 'warn',
             // eqeqeq: 'warn',
