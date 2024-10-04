@@ -1,4 +1,4 @@
-import noProjectImage from '../../../public/logo.png';
+import noProjectImage from '/logo.png';
 import Button from './Button';
 
 export default function NoProjectSelected({ onStartAddProject }) {
