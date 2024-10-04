@@ -1,11 +1,12 @@
 import NewProject from './assets/components/NewProject';
+import NoProjectSelected from './assets/components/NoProjectSelected';
 import ProjectsSidebar from './assets/components/ProjectsSidebar';
 
 function App() {
     return (
         <main className="h-screen my-8 flex gap-8">
             <ProjectsSidebar />
-            <NewProject />
+            <NoProjectSelected />
         </main>
     );
 }
